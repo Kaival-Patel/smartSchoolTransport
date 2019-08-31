@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightbluish">#C4DFE6</color>
+    <color name="DeepAqua">#003B46</color>
+    <color name="Ocean">#07575B</color>
+    <color name="Wave">#66A5AD</color>
+    <color name="White">#FFFFFF</color>
+    <color name="CadetBlue">#004445</color>
+    <color name="Sunflower">#FFBB00</color>
+</resources>

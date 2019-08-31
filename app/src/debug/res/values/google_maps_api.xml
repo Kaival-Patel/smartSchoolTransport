@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=11:A1:C6:A5:EE:11:67:DB:61:1C:52:ED:9E:46:4B:34:09:4F:34:C3%3Bcom.example.kaival.smartschool
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    11:A1:C6:A5:EE:11:67:DB:61:1C:52:ED:9E:46:4B:34:09:4F:34:C3
+
+    SHA-1 certificate fingerprint:
+    11:A1:C6:A5:EE:11:67:DB:61:1C:52:ED:9E:46:4B:34:09:4F:34:C3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD1ReAaw6z2m8kb51fSktOlAgXa8Gmj_p0</string>
+</resources>

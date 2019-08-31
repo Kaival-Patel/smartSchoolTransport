@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#23cfff</item>
+        <item name="colorPrimaryDark">#0e81ce</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="WithActionTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Wave</item>
+        <item name="colorPrimaryDark">@color/DeepAqua</item>
+        <item name="colorAccent">@color/Sunflower</item>
+    </style>
+
+    <style name="LoginTheme" parent="FirebaseUI">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/DeepAqua</item>
+        <item name="colorControlNormal">@color/Wave</item>
+        <item name="colorControlActivated">@color/Wave</item>
+        <item name="colorControlHighlight">@color/Wave</item>
+        <item name="android:textColor">@color/DeepAqua</item>
+        <item name="android:textColorPrimary">@color/White</item>
+        <item name="android:textColorSecondary">@color/White</item>
+        <item name="android:windowBackground">@color/lightbluish</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorHint">@color/Wave</item>
+    </style>
+
+</resources>
